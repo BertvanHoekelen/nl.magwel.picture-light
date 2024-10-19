@@ -1,0 +1,28 @@
+{
+  "id": "nl.magwel.picture-light",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "Picture Light"
+  },
+  "description": {
+    "en": "Add support for Picture Light IR devices"
+  },
+  "category": [
+    "lights"
+  ],
+  "permissions": ["homey:wireless:ir"],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Bert van Hoekelen",
+    "email": "bert@magwel.nl"
+  }
+}
